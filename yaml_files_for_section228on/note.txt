@@ -1,0 +1,4 @@
+This folder contains all yaml files required for running k8s-web-hello
+using a declarative approach
+
+They are used for the section 228 and onwards. 
